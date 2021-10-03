@@ -1,0 +1,4 @@
+Lesson 3.
+1) [pagoda, plastic plant, flowerpot]
+2) day
+3) updateDirty(15, ::increaseDirty)
